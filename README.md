@@ -116,8 +116,6 @@ Model tips:
 
 🖼 Screenshots / UI mockups
 ---
-Place screenshots in /docs and reference them in README. Example HTML for central alignment in Markdown:
-
 <p align="center">
   <img src="docs/screenshot-home.png" width="250" />
   <img src="docs/screenshot-search.png" width="250" />
