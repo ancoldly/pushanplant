@@ -247,26 +247,23 @@ Specify a license (e.g., MIT). Add a LICENSE file in the repo.
 
 ## Screenshots / UI mockups
 
-### Home
-![Home](docs/screenshot-home.png)
+<p align="center">
+  <img src="docs/screenshot-home.png" width="350" />
+  <img src="docs/screenshot-search.png" width="350" />
+</p>
 
-### Chat
-![Chat](docs/screenshot-chat.png)
+<p align="center">
+  <img src="docs/screenshot-predict.png" width="350" />
+  <img src="docs/screenshot-social.png" width="350" />
+</p>
 
-### Search
-![Search](docs/screenshot-search.png)
+<p align="center">
+  <img src="docs/screenshot-user.png" width="350" />
+  <img src="docs/screenshot-chat.png" width="350" />
+</p>
 
-### Predict
-![Predict](docs/screenshot-predict.png)
+<p align="center">
+  <img src="docs/screenshot-dashboard-admin.png" width="350" />
+  <img src="docs/screenshot-admin-edit.png" width="350" />
+</p>
 
-### Social
-![Social](docs/screenshot-social.png)
-
-### User
-![User](docs/screenshot-user.png)
-
-### Admin Dashboard
-![Admin Dashboard](docs/screenshot-dashboard-admin.png)
-
-### Admin Edit
-![Admin Edit](docs/screenshot-admin-edit.png)
