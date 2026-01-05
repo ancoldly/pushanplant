@@ -246,12 +246,27 @@ Specify a license (e.g., MIT). Add a LICENSE file in the repo.
 - Email: (add your contact email)
 
 ## Screenshots / UI mockups
-Place screenshots or UI mockups in /docs or /assets and reference them here:
-- docs/screenshot-chat.png
-- docs/screenshot-dashboard-admin.png
-- docs/screenshot-home.png
-- docs/screenshot-predict.png
-- docs/screenshot-search.png
-- docs/screenshot-social.png
-- docs/screenshot-user.png
-- docs/screenshot-admin-edit.png
+
+### Home
+![Home](docs/screenshot-home.png)
+
+### Chat
+![Chat](docs/screenshot-chat.png)
+
+### Search
+![Search](docs/screenshot-search.png)
+
+### Predict
+![Predict](docs/screenshot-predict.png)
+
+### Social
+![Social](docs/screenshot-social.png)
+
+### User
+![User](docs/screenshot-user.png)
+
+### Admin Dashboard
+![Admin Dashboard](docs/screenshot-dashboard-admin.png)
+
+### Admin Edit
+![Admin Edit](docs/screenshot-admin-edit.png)
